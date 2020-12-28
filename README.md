@@ -11,3 +11,4 @@ Quản lý danh sách các bảng TIN TUC, TAC GIA, CHU DE
 ### Trang chủ ###
 
 Hiển thị danh sách thống kê tất cả các bảng
+![Untitled](https://user-images.githubusercontent.com/54921121/103189729-a1e68980-4900-11eb-9c01-844b5f67ae9d.png)
